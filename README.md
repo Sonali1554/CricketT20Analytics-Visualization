@@ -85,16 +85,8 @@ Cricket-T20-Analytics-Visualization/
 
 ### 👩‍💻 Author
 
-Hardik Mishra
+Sonali Kumari
 
-📍 Data Analyst Enthusiast
 
-🔗 [Portfolio](https://github.com/Hardikmishra007) | [LinkedIn](www.linkedin.com/in/hardikmishra007) 
-
- ---
-
-### 📜 License
-
-This project is open-sourced under the MIT License — feel free to use and adapt it!
 
 ---
